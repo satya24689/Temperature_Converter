@@ -21,4 +21,3 @@ The Temperature Converter is a simple Python-based command-line tool for convert
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/temperature-converter.git
